@@ -1,0 +1,6 @@
+{
+  "name": "Wildflour Bakery & Custom Cakes",
+  "description": "Artisanal boutique bakery offering interactive online custom cake design, signature cake ordering, transparent pricing, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
